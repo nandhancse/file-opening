@@ -1,0 +1,2 @@
+hello nandhan 
+today we are learnng how to open a file in python
